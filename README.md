@@ -23,6 +23,6 @@ I build complete Android apps with Java, Kotlin and Firebase, and I like adding 
 ## 📫 Contact
 
 - Email: ferdousmunny188@gmail.com
-- LinkedIn: [linkedin.com/in/ferdous-munny-036028226](https://www.linkedin.com/in/ferdous-munny-036028226)
+- LinkedIn: [linkedin.com/in/jannatul-ferdous-munny-036028226](https://www.linkedin.com/in/jannatul-ferdous-munny-036028226)
 
 💼 Open to Junior Android Developer roles and internships.
