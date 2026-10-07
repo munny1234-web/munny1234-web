@@ -2,13 +2,13 @@
 
 **Android Developer** · Final-semester CSE student at Atish Dipankar University of Science & Technology (ADUST), Dhaka
 
-I build complete Android apps with Java, Kotlin and Firebase, and I like adding AI features such as on-device ML, OCR and vision APIs. My final year project, **LostAndFound2**, placed **2nd at the project defense** at ADUST.
+I build complete Android apps with Java, Kotlin and Firebase, and I like adding AI features such as on-device ML, OCR and vision APIs. My final year project, **LostAndFound**, placed **2nd at the project defense** at ADUST.
 
 ## 🚀 Featured Projects
 
 | Project | What it does | Tech |
 |---|---|---|
-| [LostAndFound2](https://github.com/munny1234-web/LostAndFound2) | Smart lost & found platform with AI item matching and fraud detection (2nd place, final year project) | Java, Firebase, ML Kit, React |
+| LostAndFound: [Android App](https://github.com/munny1234-web/LostAndFound-app) · [Website](https://github.com/munny1234-web/LostAndFound-Website) | Smart lost & found platform with AI item matching and fraud detection (2nd place, final year project) | Java, Firebase, ML Kit, JavaScript, React |
 | [CGPA Calculator](https://github.com/munny1234-web/CGPA-Calculator) | Semester-wise CGPA tracking with OCR import, PDF transcripts and trend charts | Kotlin, Jetpack Compose, Firebase |
 | [GreenCare](https://github.com/munny1234-web/GreenCare) | On-device Money Plant disease detection | Android, TensorFlow Lite |
 | [Crop Doctor](https://github.com/munny1234-web/Crop-Doctor) | Plant disease diagnosis for 14 home and balcony plants | Flutter, FastAPI, Gemini Vision |
